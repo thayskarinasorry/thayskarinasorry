@@ -2,8 +2,8 @@
 - 👀 Ola meu nome é thayskarinasorry
 - meu email de contato é thays.g.oliveira@escola.pr.gov.br
 - 🌱 eu estou interessado em aprender a programar novas linguagens
-- 💞️ e eu estou apredendo a programar
-- 📫 How to reach me ...
+-  e eu estou apredendo a programar recentemente a linguagem de javaScript e Scratch
+-
 
 <!---
 thayskarinasorry/thayskarinasorry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
